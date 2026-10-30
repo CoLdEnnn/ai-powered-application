@@ -61,6 +61,7 @@ class Settings:
             raw[field] = (root / raw[field]).resolve()
         raw['llama_base_url'] = require_loopback_url(raw['llama_base_url'])
         # 127.0.0.1 = this computer only. 0.0.0.0 = also devices on the same Wi-Fi (e.g. a phone).
+        # To open the app from a phone, change one line in config.json: "host": "0.0.0.0".
         # There is no login, so use 0.0.0.0 only on a network you trust. The model server stays loopback-only.
         if raw['host'] not in ('127.0.0.1','0.0.0.0'):
             raise ValueError('host must be 127.0.0.1 (this computer only) or 0.0.0.0 (same Wi-Fi network). There is no authentication.')
