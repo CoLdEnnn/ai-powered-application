@@ -8,9 +8,21 @@ class AppState extends ChangeNotifier {
   AppState()
       : api = ApiClient(
           // Change with: --dart-define=API_BASE=http://192.168.0.10:8000
-          baseUrl: const String.fromEnvironment('API_BASE', defaultValue: 'http://127.0.0.1:8000'),
+          baseUrl: _defaultBase(),
           mock: const bool.fromEnvironment('MOCK'),
         );
+
+  /// API address. If API_BASE is not set, the page host is used (web), port 8000.
+  /// So http://<laptop-ip>:5555 talks to http://<laptop-ip>:8000 automatically.
+  static String _defaultBase() {
+    const v = String.fromEnvironment('API_BASE', defaultValue: 'auto');
+    if (v != 'auto') return v;
+    if (kIsWeb) {
+      final h = Uri.base.host;
+      return 'http://${h.isEmpty ? '127.0.0.1' : h}:8000';
+    }
+    return 'http://127.0.0.1:8000';
+  }
 
   ApiClient api;
   bool started = false;
