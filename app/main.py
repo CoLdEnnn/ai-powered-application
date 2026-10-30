@@ -46,6 +46,8 @@ def create_app(config_path: str | Path='config.json', service_override=None) -> 
             app.state.service.close()
 
     app=FastAPI(title='AITU Local Assistant',version='0.1.0',lifespan=lifespan)
+    from fastapi.middleware.cors import CORSMiddleware
+    app.add_middleware(CORSMiddleware,allow_origins=['*'],allow_methods=['*'],allow_headers=['*'])
     app.mount('/static',StaticFiles(directory=STATIC),name='static')
 
     @app.get('/',include_in_schema=False)
