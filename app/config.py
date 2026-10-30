@@ -60,8 +60,11 @@ class Settings:
         for field in ('model_path','llama_server_path','embedding_cache','index_dir','corpus_path','source_catalog_path','system_prompt_path'):
             raw[field] = (root / raw[field]).resolve()
         raw['llama_base_url'] = require_loopback_url(raw['llama_base_url'])
-        if raw['host'] != '127.0.0.1':
-            raise ValueError('This local prototype binds to 127.0.0.1. Add authentication before designing a shared server deployment.')
+        # 127.0.0.1 = this computer only. 0.0.0.0 = also devices on the same Wi-Fi (e.g. a phone).
+        # To open the app from a phone, change one line in config.json: "host": "0.0.0.0".
+        # There is no login, so use 0.0.0.0 only on a network you trust. The model server stays loopback-only.
+        if raw['host'] not in ('127.0.0.1','0.0.0.0'):
+            raise ValueError('host must be 127.0.0.1 (this computer only) or 0.0.0.0 (same Wi-Fi network). There is no authentication.')
         for key in ('port','context_size','threads','batch_size','max_new_tokens','retrieval_k','embedding_threads','request_timeout_seconds','max_question_chars'):
             if type(raw[key]) is not int or raw[key] <= 0:
                 raise ValueError(f'{key} must be a positive integer.')
