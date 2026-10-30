@@ -1,0 +1,1 @@
+"""Local AITU assistant prototype."""

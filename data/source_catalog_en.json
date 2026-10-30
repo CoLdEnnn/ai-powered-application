@@ -1,0 +1,2614 @@
+[
+  {
+    "source_id": "SRC-001",
+    "title_en": "Bachelor’s Degree",
+    "urls": [
+      "https://astanait.edu.kz/en/bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 7,
+      "cells": "A7:H7"
+    },
+    "original_reference_locator": "Sources sheet, row 7, column D"
+  },
+  {
+    "source_id": "SRC-002",
+    "title_en": "Admission After School",
+    "urls": [
+      "https://astanait.edu.kz/en/how-to-apply"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 8,
+      "cells": "A8:H8"
+    },
+    "original_reference_locator": "Sources sheet, row 8, column D"
+  },
+  {
+    "source_id": "SRC-003",
+    "title_en": "Admission after college",
+    "urls": [
+      "https://astanait.edu.kz/en/admission-after-college"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 9,
+      "cells": "A9:H9"
+    },
+    "original_reference_locator": "Sources sheet, row 9, column D"
+  },
+  {
+    "source_id": "SRC-004",
+    "title_en": "AITU Excellence Test",
+    "urls": [
+      "https://astanait.edu.kz/en/aitu-excellence-test"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 10,
+      "cells": "A10:H10"
+    },
+    "original_reference_locator": "Sources sheet, row 10, column D"
+  },
+  {
+    "source_id": "SRC-005",
+    "title_en": "Creative Entrance Examinations",
+    "urls": [
+      "https://astanait.edu.kz/en/creative-exams"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 11,
+      "cells": "A11:H11"
+    },
+    "original_reference_locator": "Sources sheet, row 11, column D"
+  },
+  {
+    "source_id": "SRC-006",
+    "title_en": "Admission for foreign applicants",
+    "urls": [
+      "https://astanait.edu.kz/en/inc-academ"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 12,
+      "cells": "A12:H12"
+    },
+    "original_reference_locator": "Sources sheet, row 12, column D"
+  },
+  {
+    "source_id": "SRC-007",
+    "title_en": "Scholarship",
+    "urls": [
+      "https://astanait.edu.kz/en/scholarship-foreign"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 13,
+      "cells": "A13:H13"
+    },
+    "original_reference_locator": "Sources sheet, row 13, column D"
+  },
+  {
+    "source_id": "SRC-008",
+    "title_en": "College",
+    "urls": [
+      "https://astanait.edu.kz/en/college"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 14,
+      "cells": "A14:H14"
+    },
+    "original_reference_locator": "Sources sheet, row 14, column D"
+  },
+  {
+    "source_id": "SRC-009",
+    "title_en": "Credit price lists for academic year 2026–2027",
+    "urls": [
+      "https://drive.google.com/file/d/1uuzGqrommjx0RGq2eJsSdrvPSiM9GHuJ/view?usp=sharing"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 15,
+      "cells": "A15:H15"
+    },
+    "original_reference_locator": "Sources sheet, row 15, column D"
+  },
+  {
+    "source_id": "SRC-010",
+    "title_en": "Grants and tuition discounts policy, DP-AITU-56, edition 5",
+    "urls": [
+      "https://drive.google.com/file/d/11nbLMrdLZXNVLFmbtBN5AxCSkzeqeLfS/view?usp=sharing"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 16,
+      "cells": "A16:H16"
+    },
+    "original_reference_locator": "Sources sheet, row 16, column D"
+  },
+  {
+    "source_id": "SRC-011",
+    "title_en": "Admission rules for higher and postgraduate education",
+    "urls": [
+      "https://drive.google.com/file/d/1g6O-7BHEO6-DRjVIxTh-KP60BmFVqNHN/view?usp=sharing"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "link_only_not_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 17,
+      "cells": "A17:H17"
+    },
+    "original_reference_locator": "Sources sheet, row 17, column D"
+  },
+  {
+    "source_id": "SRC-012",
+    "title_en": "Required documents",
+    "urls": [
+      "https://docs.google.com/document/d/1VQF3w3Dbm5dK4E7oTbPTiKuUBfj7Muse/edit?ouid=106796521279834811996&rtpof=true&sd=true&usp=sharing"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "link_only_not_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 18,
+      "cells": "A18:H18"
+    },
+    "original_reference_locator": "Sources sheet, row 18, column D"
+  },
+  {
+    "source_id": "SRC-013",
+    "title_en": "Instruction for taking the AET test through OES Proctoring System",
+    "urls": [
+      "https://drive.google.com/file/d/1ATyVe8FTgFK7pBU2_oFWFBa0j59ezC3G/view?usp=sharing"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "link_only_not_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 19,
+      "cells": "A19:H19"
+    },
+    "original_reference_locator": "Sources sheet, row 19, column D"
+  },
+  {
+    "source_id": "SRC-014",
+    "title_en": "Rules for taking the test with the proctoring system",
+    "urls": [
+      "https://drive.google.com/file/d/1P9udMp74apX-K_na_yz2U75usoSkzxqK/view?usp=sharing"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "link_only_not_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 20,
+      "cells": "A20:H20"
+    },
+    "original_reference_locator": "Sources sheet, row 20, column D"
+  },
+  {
+    "source_id": "SRC-015",
+    "title_en": "Foundation — AITU Center of Competence and Excellence",
+    "urls": [
+      "https://cce.astanait.edu.kz/foundation"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 21,
+      "cells": "A21:H21"
+    },
+    "original_reference_locator": "Sources sheet, row 21, column D"
+  },
+  {
+    "source_id": "SRC-016",
+    "title_en": "Master’s Degree Program",
+    "urls": [
+      "https://astanait.edu.kz/en/master"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 22,
+      "cells": "A22:H22"
+    },
+    "original_reference_locator": "Sources sheet, row 22, column D"
+  },
+  {
+    "source_id": "SRC-017",
+    "title_en": "PhD — admission",
+    "urls": [
+      "https://astanait.edu.kz/en/phd"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 23,
+      "cells": "A23:H23"
+    },
+    "original_reference_locator": "Sources sheet, row 23, column D"
+  },
+  {
+    "source_id": "SRC-018",
+    "title_en": "Rector's Grant — Digital Public Administration",
+    "urls": [
+      "https://astanait.edu.kz/ru/aitu-rectors-grant-digital-public-administration"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 24,
+      "cells": "A24:H24"
+    },
+    "original_reference_locator": "Sources sheet, row 24, column D"
+  },
+  {
+    "source_id": "SRC-019",
+    "title_en": "Rector's Grant competition results, 2026",
+    "urls": [
+      "https://astanait.edu.kz/ru/rectors-grant-results-2026"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 25,
+      "cells": "A25:H25"
+    },
+    "original_reference_locator": "Sources sheet, row 25, column D"
+  },
+  {
+    "source_id": "SRC-020",
+    "title_en": "Education process",
+    "urls": [
+      "https://astanait.edu.kz/study-at-aitu"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 26,
+      "cells": "A26:H26"
+    },
+    "original_reference_locator": "Sources sheet, row 26, column D"
+  },
+  {
+    "source_id": "SRC-021",
+    "title_en": "Studying at AITU (Russian page)",
+    "urls": [
+      "https://astanait.edu.kz/ru/study-at-aitu"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 27,
+      "cells": "A27:H27"
+    },
+    "original_reference_locator": "Sources sheet, row 27, column D"
+  },
+  {
+    "source_id": "SRC-022",
+    "title_en": "Registrar’s Office",
+    "urls": [
+      "https://astanait.edu.kz/officeregistrar"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 28,
+      "cells": "A28:H28"
+    },
+    "original_reference_locator": "Sources sheet, row 28, column D"
+  },
+  {
+    "source_id": "SRC-023",
+    "title_en": "Registrar's Office (Russian page)",
+    "urls": [
+      "https://astanait.edu.kz/ru/officeregistrar"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 29,
+      "cells": "A29:H29"
+    },
+    "original_reference_locator": "Sources sheet, row 29, column D"
+  },
+  {
+    "source_id": "SRC-024",
+    "title_en": "Student Department",
+    "urls": [
+      "https://astanait.edu.kz/en/student-dep"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 30,
+      "cells": "A30:H30"
+    },
+    "original_reference_locator": "Sources sheet, row 30, column D"
+  },
+  {
+    "source_id": "SRC-025",
+    "title_en": "Student Department (Russian page)",
+    "urls": [
+      "https://astanait.edu.kz/ru/student-dep"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 31,
+      "cells": "A31:H31"
+    },
+    "original_reference_locator": "Sources sheet, row 31, column D"
+  },
+  {
+    "source_id": "SRC-026",
+    "title_en": "School of Software Engineering: technical and administrative issues",
+    "urls": [
+      "https://astanait.edu.kz/en/school-of-software-engineering"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 32,
+      "cells": "A32:H32"
+    },
+    "original_reference_locator": "Sources sheet, row 32, column D"
+  },
+  {
+    "source_id": "SRC-027",
+    "title_en": "Academic opportunities",
+    "urls": [
+      "https://astanait.edu.kz/en/academic-opportunities"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 33,
+      "cells": "A33:H33"
+    },
+    "original_reference_locator": "Sources sheet, row 33, column D"
+  },
+  {
+    "source_id": "SRC-028",
+    "title_en": "Academic opportunities (Russian page)",
+    "urls": [
+      "https://astanait.edu.kz/ru/academic-opportunities"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 34,
+      "cells": "A34:H34"
+    },
+    "original_reference_locator": "Sources sheet, row 34, column D"
+  },
+  {
+    "source_id": "SRC-029",
+    "title_en": "About AITU: Academic Policy and Educational Process",
+    "urls": [
+      "https://astanait.edu.kz/en/about-aitu"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 35,
+      "cells": "A35:H35"
+    },
+    "original_reference_locator": "Sources sheet, row 35, column D"
+  },
+  {
+    "source_id": "SRC-030",
+    "title_en": "Academic Policy of Astana IT University LLP, Edition 4 (2026)",
+    "urls": [
+      "https://drive.google.com/file/d/1uI5zSThYLOGTRgrFV9o6SdxOrCNOgHii/view?usp=drive_link"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 36,
+      "cells": "A36:H36"
+    },
+    "original_reference_locator": "Sources sheet, row 36, column D"
+  },
+  {
+    "source_id": "SRC-031",
+    "title_en": "Education process: document folder",
+    "urls": [
+      "https://drive.google.com/drive/folders/1xSuEsCZa11nLOGVKToRCE7NkBcLusnSf?usp=sharing"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "link_only_not_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 37,
+      "cells": "A37:H37"
+    },
+    "original_reference_locator": "Sources sheet, row 37, column D"
+  },
+  {
+    "source_id": "SRC-032",
+    "title_en": "Student Handbook / Reference Guide linked from study-at-aitu",
+    "urls": [
+      "https://drive.google.com/file/d/1TED3kS_ECW-0ih3Io6kmKNNcGudckDZE/view?usp=sharing"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 38,
+      "cells": "A38:H38"
+    },
+    "original_reference_locator": "Sources sheet, row 38, column D"
+  },
+  {
+    "source_id": "SRC-033",
+    "title_en": "DOT-instructions.pdf",
+    "urls": [
+      "https://drive.google.com/file/d/1x_GX_aU1xefc16XUyIaraQoJ2Ze65HgU/view?usp=sharing"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "link_only_not_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 39,
+      "cells": "A39:H39"
+    },
+    "original_reference_locator": "Sources sheet, row 39, column D"
+  },
+  {
+    "source_id": "SRC-034",
+    "title_en": "Bachelor year 2 academic calendar, 2026–2027",
+    "urls": [
+      "https://drive.google.com/file/d/1Qjx7tU4u6QbJTMoR05UIxQvYXZp7nxVA/view?usp=sharing"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 40,
+      "cells": "A40:H40"
+    },
+    "original_reference_locator": "Sources sheet, row 40, column D"
+  },
+  {
+    "source_id": "SRC-035",
+    "title_en": "Student Life",
+    "urls": [
+      "https://astanait.edu.kz/student-life-page"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 41,
+      "cells": "A41:H41"
+    },
+    "original_reference_locator": "Sources sheet, row 41, column D"
+  },
+  {
+    "source_id": "SRC-036",
+    "title_en": "Student house",
+    "urls": [
+      "https://astanait.edu.kz/students-dormitory"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 42,
+      "cells": "A42:H42"
+    },
+    "original_reference_locator": "Sources sheet, row 42, column D"
+  },
+  {
+    "source_id": "SRC-037",
+    "title_en": "Student clubs",
+    "urls": [
+      "https://astanait.edu.kz/ru/student-clubs"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 43,
+      "cells": "A43:H43"
+    },
+    "original_reference_locator": "Sources sheet, row 43, column D"
+  },
+  {
+    "source_id": "SRC-038",
+    "title_en": "Department of Social and Educational Work",
+    "urls": [
+      "https://astanait.edu.kz/en/department-social-educational-work"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 44,
+      "cells": "A44:H44"
+    },
+    "original_reference_locator": "Sources sheet, row 44, column D"
+  },
+  {
+    "source_id": "SRC-039",
+    "title_en": "AITUSA Student Government",
+    "urls": [
+      "https://astanait.edu.kz/en/aitusa"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 45,
+      "cells": "A45:H45"
+    },
+    "original_reference_locator": "Sources sheet, row 45, column D"
+  },
+  {
+    "source_id": "SRC-040",
+    "title_en": "Psychological Counseling Center",
+    "urls": [
+      "https://astanait.edu.kz/en/psychological-counseling-center"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 46,
+      "cells": "A46:H46"
+    },
+    "original_reference_locator": "Sources sheet, row 46, column D"
+  },
+  {
+    "source_id": "SRC-041",
+    "title_en": "Medical Service",
+    "urls": [
+      "https://astanait.edu.kz/en/medical-services"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 47,
+      "cells": "A47:H47"
+    },
+    "original_reference_locator": "Sources sheet, row 47, column D"
+  },
+  {
+    "source_id": "SRC-042",
+    "title_en": "Sports at AITU",
+    "urls": [
+      "https://astanait.edu.kz/en/sports-AITU"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 48,
+      "cells": "A48:H48"
+    },
+    "original_reference_locator": "Sources sheet, row 48, column D"
+  },
+  {
+    "source_id": "SRC-043",
+    "title_en": "Astana IT University Library",
+    "urls": [
+      "https://astanait.edu.kz/en/scientific-library"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 49,
+      "cells": "A49:H49"
+    },
+    "original_reference_locator": "Sources sheet, row 49, column D"
+  },
+  {
+    "source_id": "SRC-044",
+    "title_en": "Library: About Us",
+    "urls": [
+      "https://astanait.edu.kz/en/about-us-page-library"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 50,
+      "cells": "A50:H50"
+    },
+    "original_reference_locator": "Sources sheet, row 50, column D"
+  },
+  {
+    "source_id": "SRC-045",
+    "title_en": "Library: For Students",
+    "urls": [
+      "https://astanait.edu.kz/en/for-students"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 51,
+      "cells": "A51:H51"
+    },
+    "original_reference_locator": "Sources sheet, row 51, column D"
+  },
+  {
+    "source_id": "SRC-046",
+    "title_en": "Student House instructions (English version)",
+    "urls": [
+      "https://drive.google.com/file/d/1orNJw_dhRp1oz-DSjLSeZsRb7JgY3zww/view?usp=sharing"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "link_only_not_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 52,
+      "cells": "A52:H52"
+    },
+    "original_reference_locator": "Sources sheet, row 52, column D"
+  },
+  {
+    "source_id": "SRC-047",
+    "title_en": "School of Intelligent Systems",
+    "urls": [
+      "https://astanait.edu.kz/en/school-of-intelligent-systems"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 53,
+      "cells": "A53:H53"
+    },
+    "original_reference_locator": "Sources sheet, row 53, column D"
+  },
+  {
+    "source_id": "SRC-048",
+    "title_en": "School of Artificial Intelligence and Data Science",
+    "urls": [
+      "https://astanait.edu.kz/en/school-of-ai-and-data-science"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 54,
+      "cells": "A54:H54"
+    },
+    "original_reference_locator": "Sources sheet, row 54, column D"
+  },
+  {
+    "source_id": "SRC-049",
+    "title_en": "School of Cybersecurity",
+    "urls": [
+      "https://astanait.edu.kz/en/school-of-cybersecurity"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 55,
+      "cells": "A55:H55"
+    },
+    "original_reference_locator": "Sources sheet, row 55, column D"
+  },
+  {
+    "source_id": "SRC-050",
+    "title_en": "School of Creative Industries",
+    "urls": [
+      "https://astanait.edu.kz/en/school-of-creative-industries"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 56,
+      "cells": "A56:H56"
+    },
+    "original_reference_locator": "Sources sheet, row 56, column D"
+  },
+  {
+    "source_id": "SRC-051",
+    "title_en": "School of General Education Disciplines",
+    "urls": [
+      "https://astanait.edu.kz/en/school-of-general-education-disciplines"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 57,
+      "cells": "A57:H57"
+    },
+    "original_reference_locator": "Sources sheet, row 57, column D"
+  },
+  {
+    "source_id": "SRC-052",
+    "title_en": "School of Digital Public Administration",
+    "urls": [
+      "https://astanait.edu.kz/en/school-of-digital-public-administration"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 58,
+      "cells": "A58:H58"
+    },
+    "original_reference_locator": "Sources sheet, row 58, column D"
+  },
+  {
+    "source_id": "SRC-053",
+    "title_en": "6B06102 Software Engineering",
+    "urls": [
+      "https://astanait.edu.kz/en/Software-Engineering-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 59,
+      "cells": "A59:H59"
+    },
+    "original_reference_locator": "Sources sheet, row 59, column D"
+  },
+  {
+    "source_id": "SRC-054",
+    "title_en": "6B06101 Computer Science",
+    "urls": [
+      "https://astanait.edu.kz/en/Computer-Science-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 60,
+      "cells": "A60:H60"
+    },
+    "original_reference_locator": "Sources sheet, row 60, column D"
+  },
+  {
+    "source_id": "SRC-055",
+    "title_en": "6B06103 Big Data Analysis",
+    "urls": [
+      "https://astanait.edu.kz/en/BigDataAnalysis-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 61,
+      "cells": "A61:H61"
+    },
+    "original_reference_locator": "Sources sheet, row 61, column D"
+  },
+  {
+    "source_id": "SRC-056",
+    "title_en": "Mathematical and Computational Science",
+    "urls": [
+      "https://astanait.edu.kz/en/mathematicalcomputational-science-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 62,
+      "cells": "A62:H62"
+    },
+    "original_reference_locator": "Sources sheet, row 62, column D"
+  },
+  {
+    "source_id": "SRC-057",
+    "title_en": "Cybersecurity",
+    "urls": [
+      "https://astanait.edu.kz/en/Cybersecurity"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 63,
+      "cells": "A63:H63"
+    },
+    "original_reference_locator": "Sources sheet, row 63, column D"
+  },
+  {
+    "source_id": "SRC-058",
+    "title_en": "Smart Security Technologies",
+    "urls": [
+      "https://astanait.edu.kz/en/smartsecuritytechnologies-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 64,
+      "cells": "A64:H64"
+    },
+    "original_reference_locator": "Sources sheet, row 64, column D"
+  },
+  {
+    "source_id": "SRC-059",
+    "title_en": "Industrial Internet of Things",
+    "urls": [
+      "https://astanait.edu.kz/en/industrial-internet-things-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 65,
+      "cells": "A65:H65"
+    },
+    "original_reference_locator": "Sources sheet, row 65, column D"
+  },
+  {
+    "source_id": "SRC-060",
+    "title_en": "Electronic Engineering",
+    "urls": [
+      "https://astanait.edu.kz/en/electronic-engineering-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 66,
+      "cells": "A66:H66"
+    },
+    "original_reference_locator": "Sources sheet, row 66, column D"
+  },
+  {
+    "source_id": "SRC-061",
+    "title_en": "Smart Technologies",
+    "urls": [
+      "https://astanait.edu.kz/en/smarttechnologies-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 67,
+      "cells": "A67:H67"
+    },
+    "original_reference_locator": "Sources sheet, row 67, column D"
+  },
+  {
+    "source_id": "SRC-062",
+    "title_en": "Digital technologies in nuclear power engineering",
+    "urls": [
+      "https://astanait.edu.kz/en/digitaltechnologiesin-nuclear-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 68,
+      "cells": "A68:H68"
+    },
+    "original_reference_locator": "Sources sheet, row 68, column D"
+  },
+  {
+    "source_id": "SRC-063",
+    "title_en": "Media Technologies",
+    "urls": [
+      "https://astanait.edu.kz/en/mediatechbachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 69,
+      "cells": "A69:H69"
+    },
+    "original_reference_locator": "Sources sheet, row 69, column D"
+  },
+  {
+    "source_id": "SRC-064",
+    "title_en": "Digital Journalism",
+    "urls": [
+      "https://astanait.edu.kz/en/dj"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 70,
+      "cells": "A70:H70"
+    },
+    "original_reference_locator": "Sources sheet, row 70, column D"
+  },
+  {
+    "source_id": "SRC-065",
+    "title_en": "Digital Public Administration",
+    "urls": [
+      "https://astanait.edu.kz/en/digital-public-administration-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 71,
+      "cells": "A71:H71"
+    },
+    "original_reference_locator": "Sources sheet, row 71, column D"
+  },
+  {
+    "source_id": "SRC-066",
+    "title_en": "Digital Jurisprudence",
+    "urls": [
+      "https://astanait.edu.kz/en/digital-law"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 72,
+      "cells": "A72:H72"
+    },
+    "original_reference_locator": "Sources sheet, row 72, column D"
+  },
+  {
+    "source_id": "SRC-067",
+    "title_en": "AI Business",
+    "urls": [
+      "https://astanait.edu.kz/en/aibusiness-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 73,
+      "cells": "A73:H73"
+    },
+    "original_reference_locator": "Sources sheet, row 73, column D"
+  },
+  {
+    "source_id": "SRC-068",
+    "title_en": "IT Management",
+    "urls": [
+      "https://astanait.edu.kz/en/itmanagement-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 74,
+      "cells": "A74:H74"
+    },
+    "original_reference_locator": "Sources sheet, row 74, column D"
+  },
+  {
+    "source_id": "SRC-069",
+    "title_en": "IT Entrepreneurship",
+    "urls": [
+      "https://astanait.edu.kz/en/itentrepre-bachelor"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 75,
+      "cells": "A75:H75"
+    },
+    "original_reference_locator": "Sources sheet, row 75, column D"
+  },
+  {
+    "source_id": "SRC-070",
+    "title_en": "Applied Data Analytics",
+    "urls": [
+      "https://astanait.edu.kz/en/applieddataanalytics"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 76,
+      "cells": "A76:H76"
+    },
+    "original_reference_locator": "Sources sheet, row 76, column D"
+  },
+  {
+    "source_id": "SRC-071",
+    "title_en": "Computational Science",
+    "urls": [
+      "https://astanait.edu.kz/en/computational-science-mds"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 77,
+      "cells": "A77:H77"
+    },
+    "original_reference_locator": "Sources sheet, row 77, column D"
+  },
+  {
+    "source_id": "SRC-072",
+    "title_en": "Computer Science and Engineering",
+    "urls": [
+      "https://astanait.edu.kz/en/Computer-Science-Engineering-masters"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 78,
+      "cells": "A78:H78"
+    },
+    "original_reference_locator": "Sources sheet, row 78, column D"
+  },
+  {
+    "source_id": "SRC-073",
+    "title_en": "Secure Software Engineering",
+    "urls": [
+      "https://astanait.edu.kz/en/secure-software-engineering-masters"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 79,
+      "cells": "A79:H79"
+    },
+    "original_reference_locator": "Sources sheet, row 79, column D"
+  },
+  {
+    "source_id": "SRC-074",
+    "title_en": "Media Technologies",
+    "urls": [
+      "https://astanait.edu.kz/en/Media-Technologies-masters"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 80,
+      "cells": "A80:H80"
+    },
+    "original_reference_locator": "Sources sheet, row 80, column D"
+  },
+  {
+    "source_id": "SRC-075",
+    "title_en": "Project Management",
+    "urls": [
+      "https://astanait.edu.kz/en/Project-Management-masters"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 81,
+      "cells": "A81:H81"
+    },
+    "original_reference_locator": "Sources sheet, row 81, column D"
+  },
+  {
+    "source_id": "SRC-076",
+    "title_en": "Applied Artificial Intelligence",
+    "urls": [
+      "https://astanait.edu.kz/en/Applied-Artificial-Intelligence-masters"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 82,
+      "cells": "A82:H82"
+    },
+    "original_reference_locator": "Sources sheet, row 82, column D"
+  },
+  {
+    "source_id": "SRC-077",
+    "title_en": "Digital Public Administration and Services",
+    "urls": [
+      "https://astanait.edu.kz/en/Digital-Public-Administration-Services-masters"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 83,
+      "cells": "A83:H83"
+    },
+    "original_reference_locator": "Sources sheet, row 83, column D"
+  },
+  {
+    "source_id": "SRC-078",
+    "title_en": "Digital Business and AI Technologies",
+    "urls": [
+      "https://astanait.edu.kz/en/Digital-Business-AI-Technologies-masters"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 84,
+      "cells": "A84:H84"
+    },
+    "original_reference_locator": "Sources sheet, row 84, column D"
+  },
+  {
+    "source_id": "SRC-079",
+    "title_en": "Computer Science",
+    "urls": [
+      "https://astanait.edu.kz/en/phdcomps"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 85,
+      "cells": "A85:H85"
+    },
+    "original_reference_locator": "Sources sheet, row 85, column D"
+  },
+  {
+    "source_id": "SRC-080",
+    "title_en": "Artificial Intelligence",
+    "urls": [
+      "https://astanait.edu.kz/en/aiphd"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 86,
+      "cells": "A86:H86"
+    },
+    "original_reference_locator": "Sources sheet, row 86, column D"
+  },
+  {
+    "source_id": "SRC-081",
+    "title_en": "Project Management",
+    "urls": [
+      "https://astanait.edu.kz/en/projectmphd"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 87,
+      "cells": "A87:H87"
+    },
+    "original_reference_locator": "Sources sheet, row 87, column D"
+  },
+  {
+    "source_id": "SRC-082",
+    "title_en": "Academic mobility — outgoing",
+    "urls": [
+      "https://astanait.edu.kz/en/outg-academ-mobility"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 88,
+      "cells": "A88:H88"
+    },
+    "original_reference_locator": "Sources sheet, row 88, column D"
+  },
+  {
+    "source_id": "SRC-083",
+    "title_en": "Academic Mobility for International Students",
+    "urls": [
+      "https://astanait.edu.kz/en/academic-mobility-foreign-citizens"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 89,
+      "cells": "A89:H89"
+    },
+    "original_reference_locator": "Sources sheet, row 89, column D"
+  },
+  {
+    "source_id": "SRC-084",
+    "title_en": "International Relations",
+    "urls": [
+      "https://astanait.edu.kz/en/international-partners"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 90,
+      "cells": "A90:H90"
+    },
+    "original_reference_locator": "Sources sheet, row 90, column D"
+  },
+  {
+    "source_id": "SRC-085",
+    "title_en": "International Credit Mobility — Erasmus+",
+    "urls": [
+      "https://astanait.edu.kz/inter-credit-mobility"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 91,
+      "cells": "A91:H91"
+    },
+    "original_reference_locator": "Sources sheet, row 91, column D"
+  },
+  {
+    "source_id": "SRC-086",
+    "title_en": "The Career and Employment Center",
+    "urls": [
+      "https://astanait.edu.kz/en/career-center"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 92,
+      "cells": "A92:H92"
+    },
+    "original_reference_locator": "Sources sheet, row 92, column D"
+  },
+  {
+    "source_id": "SRC-087",
+    "title_en": "Science and Innovation",
+    "urls": [
+      "https://astanait.edu.kz/en/science-innovation"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 93,
+      "cells": "A93:H93"
+    },
+    "original_reference_locator": "Sources sheet, row 93, column D"
+  },
+  {
+    "source_id": "SRC-088",
+    "title_en": "Laboratories — historical plans",
+    "urls": [
+      "https://astanait.edu.kz/en/laboratories"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 94,
+      "cells": "A94:H94"
+    },
+    "original_reference_locator": "Sources sheet, row 94, column D"
+  },
+  {
+    "source_id": "SRC-089",
+    "title_en": "Research and Innovation Center Smart City",
+    "urls": [
+      "https://astanait.edu.kz/en/smart-city-center"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 95,
+      "cells": "A95:H95"
+    },
+    "original_reference_locator": "Sources sheet, row 95, column D"
+  },
+  {
+    "source_id": "SRC-090",
+    "title_en": "Research and Innovation Center CyberTech",
+    "urls": [
+      "https://astanait.edu.kz/en/sic-cybertech"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 96,
+      "cells": "A96:H96"
+    },
+    "original_reference_locator": "Sources sheet, row 96, column D"
+  },
+  {
+    "source_id": "SRC-091",
+    "title_en": "Big Data and Blockchain Technologies Research and Innovation Center",
+    "urls": [
+      "https://astanait.edu.kz/en/big-data-blockchain-center"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 97,
+      "cells": "A97:H97"
+    },
+    "original_reference_locator": "Sources sheet, row 97, column D"
+  },
+  {
+    "source_id": "SRC-092",
+    "title_en": "JOB FAIR 2026 — May 14 announcement",
+    "urls": [
+      "https://astanait.edu.kz/en/job-fair-may"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 98,
+      "cells": "A98:H98"
+    },
+    "original_reference_locator": "Sources sheet, row 98, column D"
+  },
+  {
+    "source_id": "SRC-093",
+    "title_en": "AITU contacts",
+    "urls": [
+      "https://astanait.edu.kz/ru/contacts"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 99,
+      "cells": "A99:H99"
+    },
+    "original_reference_locator": "Sources sheet, row 99, column D"
+  },
+  {
+    "source_id": "SRC-094",
+    "title_en": "Department of Technical Support and Maintenance",
+    "urls": [
+      "https://astanait.edu.kz/en/department-it"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 100,
+      "cells": "A100:H100"
+    },
+    "original_reference_locator": "Sources sheet, row 100, column D"
+  },
+  {
+    "source_id": "SRC-095",
+    "title_en": "Department of Accounting",
+    "urls": [
+      "https://astanait.edu.kz/en/dep-accounting"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 101,
+      "cells": "A101:H101"
+    },
+    "original_reference_locator": "Sources sheet, row 101, column D"
+  },
+  {
+    "source_id": "SRC-096",
+    "title_en": "Compliance and Risk Management Service",
+    "urls": [
+      "https://astanait.edu.kz/en/compliance-risk-service"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 102,
+      "cells": "A102:H102"
+    },
+    "original_reference_locator": "Sources sheet, row 102, column D"
+  },
+  {
+    "source_id": "SRC-097",
+    "title_en": "Department of Legal Support",
+    "urls": [
+      "https://astanait.edu.kz/en/legal-dep"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 103,
+      "cells": "A103:H103"
+    },
+    "original_reference_locator": "Sources sheet, row 103, column D"
+  },
+  {
+    "source_id": "SRC-098",
+    "title_en": "Licenses and Accreditation",
+    "urls": [
+      "https://astanait.edu.kz/en/licenses-accreditations"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 104,
+      "cells": "A104:H104"
+    },
+    "original_reference_locator": "Sources sheet, row 104, column D"
+  },
+  {
+    "source_id": "SRC-099",
+    "title_en": "Ecosystem and Infrastructure",
+    "urls": [
+      "https://astanait.edu.kz/en/aitu-ecosystem-and-infrastructure"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 105,
+      "cells": "A105:H105"
+    },
+    "original_reference_locator": "Sources sheet, row 105, column D"
+  },
+  {
+    "source_id": "SRC-100",
+    "title_en": "Astana IT University Opens New Korkem Academic Building",
+    "urls": [
+      "https://astanait.edu.kz/en/aitu-korkem-new-corpus"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 106,
+      "cells": "A106:H106"
+    },
+    "original_reference_locator": "Sources sheet, row 106, column D"
+  },
+  {
+    "source_id": "SRC-101",
+    "title_en": "Scholarship for Students",
+    "urls": [
+      "https://astanait.edu.kz/en/student-grants"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 107,
+      "cells": "A107:H107"
+    },
+    "original_reference_locator": "Sources sheet, row 107, column D"
+  },
+  {
+    "source_id": "SRC-102",
+    "title_en": "Military Department",
+    "urls": [
+      "https://astanait.edu.kz/en/military-department"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 108,
+      "cells": "A108:H108"
+    },
+    "original_reference_locator": "Sources sheet, row 108, column D"
+  },
+  {
+    "source_id": "USR-TEXT-01",
+    "title_en": "User-supplied service contacts, counselling and FX / summer retake notices",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "user_text_described_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 109,
+      "cells": "A109:H109"
+    },
+    "original_reference_locator": "Sources sheet, row 109, column D"
+  },
+  {
+    "source_id": "DU-SCREEN-01",
+    "title_en": "DU SSCI overview and event list screenshot",
+    "urls": [
+      "https://du.astanait.edu.kz/ssci-page"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "screenshot_described_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 110,
+      "cells": "A110:H110"
+    },
+    "original_reference_locator": "Sources sheet, row 110, column D"
+  },
+  {
+    "source_id": "DU-SCREEN-02",
+    "title_en": "DU iROS indicator dropdown screenshot, part 1",
+    "urls": [
+      "https://du.astanait.edu.kz/iros-page"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "screenshot_described_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 111,
+      "cells": "A111:H111"
+    },
+    "original_reference_locator": "Sources sheet, row 111, column D"
+  },
+  {
+    "source_id": "DU-SCREEN-03",
+    "title_en": "DU iROS indicator dropdown screenshot, part 2",
+    "urls": [
+      "https://du.astanait.edu.kz/iros-page"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "screenshot_described_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 112,
+      "cells": "A112:H112"
+    },
+    "original_reference_locator": "Sources sheet, row 112, column D"
+  },
+  {
+    "source_id": "DU-SCREEN-04",
+    "title_en": "DU iROS competitions, projects and organisation indicators screenshot",
+    "urls": [
+      "https://du.astanait.edu.kz/iros-page"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "screenshot_described_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 113,
+      "cells": "A113:H113"
+    },
+    "original_reference_locator": "Sources sheet, row 113, column D"
+  },
+  {
+    "source_id": "DU-SCREEN-05",
+    "title_en": "DU iROS application creation screenshot",
+    "urls": [
+      "https://du.astanait.edu.kz/iros-page"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "screenshot_described_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 114,
+      "cells": "A114:H114"
+    },
+    "original_reference_locator": "Sources sheet, row 114, column D"
+  },
+  {
+    "source_id": "DU-SCREEN-06",
+    "title_en": "DU SSCI add-event form screenshot",
+    "urls": [
+      "https://du.astanait.edu.kz/ssci-page"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "screenshot_described_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 115,
+      "cells": "A115:H115"
+    },
+    "original_reference_locator": "Sources sheet, row 115, column D"
+  },
+  {
+    "source_id": "DU-SCREEN-07",
+    "title_en": "DU Retake Application screenshot with a summer 2026 notice",
+    "urls": [
+      "https://du.astanait.edu.kz/retake-application"
+    ],
+    "reference_type": "url",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "screenshot_described_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 116,
+      "cells": "A116:H116"
+    },
+    "original_reference_locator": "Sources sheet, row 116, column D"
+  },
+  {
+    "source_id": "POL-SRC-01",
+    "title_en": "Academic Policy, uploaded Russian edition 3 (2025)",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 117,
+      "cells": "A117:H117"
+    },
+    "original_reference_locator": "Sources sheet, row 117, column D"
+  },
+  {
+    "source_id": "POL-SRC-02",
+    "title_en": "Grants and tuition discounts policy, edition 5 (2026)",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 118,
+      "cells": "A118:H118"
+    },
+    "original_reference_locator": "Sources sheet, row 118, column D"
+  },
+  {
+    "source_id": "POL-SRC-03",
+    "title_en": "Final certification rules (2025)",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 119,
+      "cells": "A119:H119"
+    },
+    "original_reference_locator": "Sources sheet, row 119, column D"
+  },
+  {
+    "source_id": "ATT-RES-01",
+    "title_en": "Master research work and scientific internship guidelines, Appendix 16 (English)",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 120,
+      "cells": "A120:H120"
+    },
+    "original_reference_locator": "Sources sheet, row 120, column D"
+  },
+  {
+    "source_id": "ATT-RES-02",
+    "title_en": "Master research work and scientific internship guidelines, Appendix 16 (Russian)",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 121,
+      "cells": "A121:H121"
+    },
+    "original_reference_locator": "Sources sheet, row 121, column D"
+  },
+  {
+    "source_id": "ATT-RES-03",
+    "title_en": "Master thesis and project guidelines (September 2026)",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 122,
+      "cells": "A122:H122"
+    },
+    "original_reference_locator": "Sources sheet, row 122, column D"
+  },
+  {
+    "source_id": "ATT-RES-04",
+    "title_en": "Doctoral research work guidelines (September 2026)",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 123,
+      "cells": "A123:H123"
+    },
+    "original_reference_locator": "Sources sheet, row 123, column D"
+  },
+  {
+    "source_id": "ATT-RES-05",
+    "title_en": "Startup project graduation guidelines",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 124,
+      "cells": "A124:H124"
+    },
+    "original_reference_locator": "Sources sheet, row 124, column D"
+  },
+  {
+    "source_id": "ATT-RES-06",
+    "title_en": "Bachelor thesis and project guidelines (2022)",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 125,
+      "cells": "A125:H125"
+    },
+    "original_reference_locator": "Sources sheet, row 125, column D"
+  },
+  {
+    "source_id": "ATT-MIL-01",
+    "title_en": "Historical military department selection procedure (Russian)",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 126,
+      "cells": "A126:H126"
+    },
+    "original_reference_locator": "Sources sheet, row 126, column D"
+  },
+  {
+    "source_id": "ATT-MIL-02",
+    "title_en": "Historical military department selection procedure (Kazakh)",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 127,
+      "cells": "A127:H127"
+    },
+    "original_reference_locator": "Sources sheet, row 127, column D"
+  },
+  {
+    "source_id": "NEW-CAL-01",
+    "title_en": "Academic calendar: bachelor, year 1",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 128,
+      "cells": "A128:H128"
+    },
+    "original_reference_locator": "Sources sheet, row 128, column D"
+  },
+  {
+    "source_id": "NEW-CAL-02",
+    "title_en": "Academic calendar: bachelor, year 2",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 129,
+      "cells": "A129:H129"
+    },
+    "original_reference_locator": "Sources sheet, row 129, column D"
+  },
+  {
+    "source_id": "NEW-CAL-03",
+    "title_en": "Academic calendar: bachelor, year 3",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 130,
+      "cells": "A130:H130"
+    },
+    "original_reference_locator": "Sources sheet, row 130, column D"
+  },
+  {
+    "source_id": "NEW-CAL-04",
+    "title_en": "Academic calendar: doctoral, year 2, winter 2025 intake",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 131,
+      "cells": "A131:H131"
+    },
+    "original_reference_locator": "Sources sheet, row 131, column D"
+  },
+  {
+    "source_id": "NEW-CAL-05",
+    "title_en": "Academic calendar: master, year 1, Applied Data Analytics",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 132,
+      "cells": "A132:H132"
+    },
+    "original_reference_locator": "Sources sheet, row 132, column D"
+  },
+  {
+    "source_id": "NEW-CAL-06",
+    "title_en": "Academic calendar: doctoral, year 1, main intake",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 133,
+      "cells": "A133:H133"
+    },
+    "original_reference_locator": "Sources sheet, row 133, column D"
+  },
+  {
+    "source_id": "NEW-CAL-07",
+    "title_en": "Academic calendar: doctoral, year 1, winter 2026 intake",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 134,
+      "cells": "A134:H134"
+    },
+    "original_reference_locator": "Sources sheet, row 134, column D"
+  },
+  {
+    "source_id": "NEW-CAL-08",
+    "title_en": "Academic calendar: master, year 1, main intake",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 135,
+      "cells": "A135:H135"
+    },
+    "original_reference_locator": "Sources sheet, row 135, column D"
+  },
+  {
+    "source_id": "NEW-CAL-09",
+    "title_en": "Academic calendar: doctoral, year 2, main intake",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 136,
+      "cells": "A136:H136"
+    },
+    "original_reference_locator": "Sources sheet, row 136, column D"
+  },
+  {
+    "source_id": "NEW-CAL-10",
+    "title_en": "Academic calendar: master, year 2, main intake",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 137,
+      "cells": "A137:H137"
+    },
+    "original_reference_locator": "Sources sheet, row 137, column D"
+  },
+  {
+    "source_id": "NEW-CAL-11",
+    "title_en": "Academic calendar: doctoral, year 3, main intake",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 138,
+      "cells": "A138:H138"
+    },
+    "original_reference_locator": "Sources sheet, row 138, column D"
+  },
+  {
+    "source_id": "NEW-CAL-12",
+    "title_en": "Academic calendar: master, year 1, winter 2026 intake",
+    "urls": [],
+    "reference_type": "attachment_or_user_message_referenced_by_workbook",
+    "underlying_document_supplied_in_this_turn": false,
+    "source_status": "marked_read_in_supplied_workbook",
+    "verification_status": "team_review_pending",
+    "source_snapshot_date": "2026-10-21",
+    "origin": {
+      "workbook": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sheet_index": 5,
+      "sheet_label_en": "Sources",
+      "row": 139,
+      "cells": "A139:H139"
+    },
+    "original_reference_locator": "Sources sheet, row 139, column D"
+  }
+]

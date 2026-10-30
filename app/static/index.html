@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>AITU Information Assistant</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="/static/app.js" defer></script>
+</head>
+<body>
+  <main>
+    <header>
+      <div class="eyebrow">LOCAL RESEARCH PROTOTYPE</div>
+      <h1>AITU Information Assistant</h1>
+      <p class="intro">Ask about admission, university services or academic procedures. Read the evidence alongside the answer.</p>
+      <div class="status"><span id="status-dot"></span><span id="status-text">Checking local model…</span></div>
+    </header>
+    <aside class="notice">The source summaries are dated <strong>21 October 2026</strong> and await team review. Confirm time-sensitive information with the relevant university office.</aside>
+    <section class="workspace">
+      <div class="question-panel">
+        <form id="question-form">
+          <label for="audience">I am asking as</label>
+          <select id="audience" name="audience">
+            <option value="all">Not specified</option>
+            <option value="applicant">An applicant</option>
+            <option value="current_student">A current student</option>
+          </select>
+          <label for="question">Your question</label>
+          <textarea id="question" name="question" rows="6" maxlength="1200" placeholder="For example: What does the 2026 policy say about IGPA?" required></textarea>
+          <p class="hint">Use English. Include your degree, academic year and intake when relevant. Each question is independent; earlier answers are not conversation memory.</p>
+          <button id="ask-button" type="submit">Ask the assistant <span aria-hidden="true">↗</span></button>
+        </form>
+        <div class="suggestions" aria-label="Example questions">
+          <span>Try a question</span>
+          <button type="button" data-question="What does the 2026 Academic Policy say about IGPA?">Understanding IGPA</button>
+          <button type="button" data-question="What UNT score do I need for admission?">Admission requirements</button>
+          <button type="button" data-question="Where can I request my transcript?">Requesting a transcript</button>
+        </div>
+      </div>
+      <section class="answer-panel" aria-live="polite" aria-busy="false" id="answer-panel">
+        <div class="answer-heading"><h2>Answer</h2><span id="elapsed"></span></div>
+        <p id="empty-state">Your answer and the retrieved evidence will appear here.</p>
+        <div id="error" class="error" hidden></div>
+        <div id="answer" hidden></div>
+        <ul id="warnings" class="warnings" hidden></ul>
+        <section id="evidence" hidden>
+          <h3>Evidence supplied to the assistant</h3>
+          <p class="hint">Retrieval similarity is a ranking score, not a probability that an answer is correct.</p>
+          <div id="source-list"></div>
+        </section>
+      </section>
+    </section>
+    <footer>English source summaries · Answers generated on this computer · Review the cited evidence</footer>
+  </main>
+</body>
+</html>

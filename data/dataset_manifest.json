@@ -1,0 +1,1129 @@
+{
+  "dataset_name": "AITU English RAG and LoRA draft dataset",
+  "version": "0.1.0",
+  "language": "en",
+  "created_on": "2026-10-27",
+  "source_snapshot_date": "2026-10-21",
+  "status": "synthetic_draft_pending_team_review",
+  "inputs": [
+    {
+      "filename": "AITU_knowledge_base_2026-10-21.xlsx",
+      "sha256": "fff7582cf281bc7ec442723c1d5feb1b2b28a620d7146a2ec8410c9e4456c4e0"
+    },
+    {
+      "filename": "AITU_student_knowledge_base_RU_2026-10-21.xlsx",
+      "sha256": "951ed672e3577087273c3a26033a45a18363f80018fc70f831eda779e174e790"
+    }
+  ],
+  "counts": {
+    "original_unique_qa_ids": 328,
+    "duplicate_rows_removed": 211,
+    "excluded_qa_ids": 1,
+    "qa_based_examples": 327,
+    "calendar_examples": 25,
+    "synthetic_behavioral_examples": 32,
+    "total_examples": 384,
+    "splits": {
+      "train": 307,
+      "validation": 38,
+      "test": 39
+    },
+    "rag_contexts": 447,
+    "calendar_contexts": 109,
+    "contact_contexts": 11,
+    "source_catalog_entries": 133
+  },
+  "behavior_counts": {
+    "answer": 290,
+    "historical_answer": 47,
+    "insufficient_information": 21,
+    "conflict": 10,
+    "clarification": 16
+  },
+  "audience_counts": {
+    "applicant": 102,
+    "shared": 30,
+    "current_student": 252
+  },
+  "split_breakdown": {
+    "train": {
+      "examples": 307,
+      "families": 28,
+      "behaviors": {
+        "answer": 233,
+        "historical_answer": 42,
+        "insufficient_information": 15,
+        "conflict": 8,
+        "clarification": 9
+      },
+      "audiences": {
+        "applicant": 85,
+        "current_student": 198,
+        "shared": 24
+      }
+    },
+    "validation": {
+      "examples": 38,
+      "families": 13,
+      "behaviors": {
+        "answer": 29,
+        "insufficient_information": 3,
+        "clarification": 3,
+        "historical_answer": 2,
+        "conflict": 1
+      },
+      "audiences": {
+        "shared": 5,
+        "current_student": 28,
+        "applicant": 5
+      }
+    },
+    "test": {
+      "examples": 39,
+      "families": 8,
+      "behaviors": {
+        "answer": 28,
+        "insufficient_information": 3,
+        "clarification": 4,
+        "historical_answer": 3,
+        "conflict": 1
+      },
+      "audiences": {
+        "current_student": 26,
+        "applicant": 12,
+        "shared": 1
+      }
+    }
+  },
+  "split_method": {
+    "unit": "connected_source_family",
+    "seed": 20261021,
+    "target_ratio": {
+      "train": 0.8,
+      "validation": 0.1,
+      "test": 0.1
+    },
+    "actual_ratio": {
+      "train": 0.7995,
+      "validation": 0.099,
+      "test": 0.1016
+    },
+    "selection_uses": "group sizes, audience labels and behavior labels only; no model outputs",
+    "rules": [
+      {
+        "source_ids": [
+          "SRC-029",
+          "SRC-030"
+        ],
+        "reason": "Sources used together in evidence record AC-025"
+      },
+      {
+        "source_ids": [
+          "SRC-030",
+          "SRC-032"
+        ],
+        "reason": "Sources used together in evidence record policy_005"
+      },
+      {
+        "source_ids": [
+          "SRC-038",
+          "USR-TEXT-01"
+        ],
+        "reason": "Sources used together in evidence record SRV-006"
+      },
+      {
+        "source_ids": [
+          "POL-SRC-01",
+          "SRC-030",
+          "USR-TEXT-01"
+        ],
+        "reason": "Sources used together in evidence record POL-009"
+      },
+      {
+        "source_ids": [
+          "POL-SRC-01",
+          "SRC-030"
+        ],
+        "reason": "Sources used together in evidence record POL-013"
+      },
+      {
+        "source_ids": [
+          "SRC-038",
+          "USR-TEXT-01"
+        ],
+        "reason": "Sources used together in evidence record USR-002"
+      },
+      {
+        "source_ids": [
+          "SRC-030",
+          "USR-TEXT-01"
+        ],
+        "reason": "Sources used together in evidence record USR-015"
+      },
+      {
+        "source_ids": [
+          "DU-SCREEN-02",
+          "DU-SCREEN-03",
+          "DU-SCREEN-04",
+          "DU-SCREEN-05"
+        ],
+        "reason": "Sources used together in evidence record DU-IMG-002"
+      },
+      {
+        "source_ids": [
+          "DU-SCREEN-02",
+          "DU-SCREEN-05"
+        ],
+        "reason": "Sources used together in evidence record DU-IMG-003"
+      },
+      {
+        "source_ids": [
+          "DU-SCREEN-03",
+          "DU-SCREEN-04",
+          "DU-SCREEN-05"
+        ],
+        "reason": "Sources used together in evidence record DU-IMG-004"
+      },
+      {
+        "source_ids": [
+          "DU-SCREEN-02",
+          "DU-SCREEN-03",
+          "DU-SCREEN-04",
+          "DU-SCREEN-05"
+        ],
+        "reason": "Sources used together in evidence record DU-IMG-005"
+      },
+      {
+        "source_ids": [
+          "DU-SCREEN-02",
+          "DU-SCREEN-03",
+          "DU-SCREEN-04",
+          "DU-SCREEN-05"
+        ],
+        "reason": "Sources used together in evidence record DU-IMG-006"
+      },
+      {
+        "source_ids": [
+          "DU-SCREEN-01",
+          "DU-SCREEN-02",
+          "DU-SCREEN-03",
+          "DU-SCREEN-04",
+          "DU-SCREEN-05",
+          "DU-SCREEN-06"
+        ],
+        "reason": "Sources used together in evidence record DU-IMG-008"
+      },
+      {
+        "source_ids": [
+          "DU-SCREEN-01",
+          "DU-SCREEN-06"
+        ],
+        "reason": "Sources used together in evidence record DU-IMG-009"
+      },
+      {
+        "source_ids": [
+          "ATT-RES-01",
+          "ATT-RES-02",
+          "ATT-RES-03"
+        ],
+        "reason": "Sources used together in evidence record RMT-RES-017"
+      },
+      {
+        "source_ids": [
+          "SRC-038",
+          "USR-TEXT-01"
+        ],
+        "reason": "Sources used together in evidence record CONTACT-06"
+      },
+      {
+        "source_ids": [
+          "POL-SRC-02",
+          "SRC-010"
+        ],
+        "reason": "discount_policy_edition_5_2026"
+      },
+      {
+        "source_ids": [
+          "NEW-CAL-02",
+          "SRC-034"
+        ],
+        "reason": "bachelor_year2_calendar_2026_2027"
+      },
+      {
+        "source_ids": [
+          "ATT-RES-01",
+          "ATT-RES-02"
+        ],
+        "reason": "masters_research_appendix16_2025"
+      },
+      {
+        "source_ids": [
+          "ATT-MIL-01",
+          "ATT-MIL-02"
+        ],
+        "reason": "military_selection_archive_2020_2021"
+      },
+      {
+        "source_ids": [
+          "POL-SRC-01",
+          "SRC-030"
+        ],
+        "reason": "academic_policy_editions_2025_2026"
+      },
+      {
+        "source_ids": [
+          "SRC-001",
+          "SRC-016",
+          "SRC-017",
+          "SRC-026",
+          "SRC-047",
+          "SRC-048",
+          "SRC-049",
+          "SRC-050",
+          "SRC-052",
+          "SRC-053",
+          "SRC-054",
+          "SRC-055",
+          "SRC-056",
+          "SRC-057",
+          "SRC-058",
+          "SRC-059",
+          "SRC-060",
+          "SRC-061",
+          "SRC-062",
+          "SRC-063",
+          "SRC-064",
+          "SRC-065",
+          "SRC-066",
+          "SRC-067",
+          "SRC-068",
+          "SRC-069",
+          "SRC-070",
+          "SRC-071",
+          "SRC-072",
+          "SRC-073",
+          "SRC-074",
+          "SRC-075",
+          "SRC-076",
+          "SRC-077",
+          "SRC-078",
+          "SRC-079",
+          "SRC-080",
+          "SRC-081"
+        ],
+        "reason": "School and degree catalogs repeat program titles and codes found on the detailed pages. PROG001 and PROG002 also repeat duration/language facts in adm_001. All program pages are conservatively grouped to avoid holding out a detailed title or code already seen in a catalog example."
+      },
+      {
+        "source_ids": [
+          "SRC-026",
+          "SRC-093"
+        ],
+        "reason": "PROG016 and GEN-005 contain the same Software Engineering phone number in different formatting."
+      },
+      {
+        "source_ids": [
+          "SRC-087",
+          "SRC-089"
+        ],
+        "reason": "INT-019 and INT-021 repeat Smart City room C1.1.231."
+      },
+      {
+        "source_ids": [
+          "SRC-001",
+          "SRC-020",
+          "SRC-021"
+        ],
+        "reason": "Study duration repeats across the study page and bachelor catalogue."
+      },
+      {
+        "source_ids": [
+          "SRC-022",
+          "SRC-023"
+        ],
+        "reason": "Language versions of the Registrar page."
+      },
+      {
+        "source_ids": [
+          "SRC-024",
+          "SRC-025"
+        ],
+        "reason": "Language versions of the Student Department page."
+      },
+      {
+        "source_ids": [
+          "SRC-027",
+          "SRC-028"
+        ],
+        "reason": "Language versions of academic opportunities."
+      },
+      {
+        "source_ids": [
+          "SRC-026",
+          "SRC-094",
+          "USR-TEXT-01"
+        ],
+        "reason": "Technical support and transcript contact facts repeat across the school page, IT page and supplied contact list."
+      },
+      {
+        "source_ids": [
+          "SRC-022",
+          "SRC-024",
+          "USR-TEXT-01"
+        ],
+        "reason": "Registrar and Student Department contact facts repeat in the supplied directory."
+      },
+      {
+        "source_ids": [
+          "SRC-038",
+          "USR-TEXT-01"
+        ],
+        "reason": "The same social-work contact has conflicting room numbers across summaries."
+      },
+      {
+        "source_ids": [
+          "SRC-040",
+          "USR-TEXT-01"
+        ],
+        "reason": "Psychological counselling contacts and user-supplied booking information."
+      },
+      {
+        "source_ids": [
+          "DU-SCREEN-07",
+          "POL-SRC-01",
+          "SRC-030",
+          "USR-TEXT-01"
+        ],
+        "reason": "Current and historical summer rules are explicitly compared, and the same 2026 notice appears in text and a screenshot."
+      },
+      {
+        "source_ids": [
+          "SRC-032",
+          "SRC-043",
+          "SRC-044",
+          "SRC-045"
+        ],
+        "reason": "Library catalogue and registration facts repeat in the handbook and library pages."
+      },
+      {
+        "source_ids": [
+          "ATT-RES-01",
+          "ATT-RES-02",
+          "ATT-RES-03"
+        ],
+        "reason": "Master research and thesis guidelines are explicitly compared in RMT-RES-017."
+      },
+      {
+        "source_ids": [
+          "ATT-MIL-01",
+          "ATT-MIL-02",
+          "SRC-102"
+        ],
+        "reason": "Historical military selection stages recur across the webpage and uploaded-document summaries."
+      },
+      {
+        "source_ids": [
+          "SRC-001",
+          "SRC-020"
+        ],
+        "reason": "AC-001 on Study at AITU repeats the three-year bachelor duration in adm_001 and PROG001. Add SRC-020 to the existing degree-catalog family."
+      },
+      {
+        "source_ids": [
+          "SRC-015",
+          "SRC-093"
+        ],
+        "reason": "admex_005 and GEN-004 repeat the same Foundation enquiry phone and WhatsApp numbers in different formatting."
+      },
+      {
+        "source_ids": [
+          "SRC-006",
+          "SRC-084"
+        ],
+        "reason": "adm_021 and INT-008 repeat a.zeinollayev@astanait.edu.kz as an international-department contact. The service scopes should remain attached to each answer."
+      },
+      {
+        "source_ids": [
+          "SRC-026",
+          "USR-TEXT-01"
+        ],
+        "reason": "AC-017 and USR-001 repeat the helpdesk email. AC-016 and CONTACT-01 repeat the DU/Moodle/Abitur support email, and AC-018 and CONTACT-04 repeat the transcript-request email."
+      },
+      {
+        "source_ids": [
+          "SRC-022",
+          "USR-TEXT-01"
+        ],
+        "reason": "AC-007 and USR-003/CONTACT-07 describe the Registrar Office head in C1.1.270. They give different contact emails but repeat the same office location and institutional role."
+      },
+      {
+        "source_ids": [
+          "SRC-024",
+          "USR-TEXT-01"
+        ],
+        "reason": "AC-010 and CONTACT-08 repeat the Student Department head, g.zhussupova@astanait.edu.kz and office C1.1.273; AC-009 repeats the same departmental office."
+      },
+      {
+        "source_ids": [
+          "SRC-038",
+          "USR-TEXT-01"
+        ],
+        "reason": "SRV-006, USR-002 and CONTACT-06 repeat Arman Kenzhebekov and his email. The office differs between C1.1.325 and C1.1.323; group the records while preserving that unresolved conflict. This edge is also present in the expanded source IDs of SRV-006 and CONTACT-06."
+      },
+      {
+        "source_ids": [
+          "SRC-040",
+          "USR-TEXT-01"
+        ],
+        "reason": "SRV-010 and CONTACT-09 repeat psychologist Asel Aitimbetova, a.aitimbetova@astanait.edu.kz and office C1.1.135."
+      },
+      {
+        "source_ids": [
+          "SRC-094",
+          "USR-TEXT-01"
+        ],
+        "reason": "GEN-006 and USR-001/CONTACT-02 repeat office C1.2.255 for the IT-support/helpdesk function. This is a conservative grouping of a repeated location for the same service area."
+      },
+      {
+        "source_ids": [
+          "SRC-036",
+          "SRC-093"
+        ],
+        "reason": "SRV-004 and GEN-003 repeat phone +7 (7172) 645-710. The first assigns it to residence enquiries and the second to general admissions. Group the shared contact value without treating those service scopes as interchangeable."
+      },
+      {
+        "source_ids": [
+          "DU-SCREEN-07",
+          "USR-TEXT-01"
+        ],
+        "reason": "The user notice and retake screenshot repeat the same summer-2026 announcement: USR-016 with DU-IMG-014/015, USR-017 with DU-IMG-018, USR-018 with DU-IMG-019, and USR-012 with DU-IMG-020."
+      },
+      {
+        "source_ids": [
+          "SRC-030",
+          "USR-TEXT-01"
+        ],
+        "reason": "USR-015 explicitly compares the user notice's 27-credit statement with the newer Academic Policy's 25-credit limit even though original source column E lists only USR-TEXT-01. The source families must be joined for this comparison; retain their different scope, edition and period."
+      },
+      {
+        "source_ids": [
+          "POL-SRC-01",
+          "SRC-030"
+        ],
+        "reason": "The 2026 and 2025 editions are a single academic-policy family for split control. POL-013 explicitly compares both editions although original source column E lists only POL-SRC-01. They remain separate evidence editions with different summer limits."
+      },
+      {
+        "source_ids": [
+          "SRC-030",
+          "SRC-032"
+        ],
+        "reason": "policy_005 already links the policy and handbook over the 25/27-credit discrepancy. policy_006 and handbook_002 also repeat online registration through the AITU student information system."
+      },
+      {
+        "source_ids": [
+          "DU-SCREEN-07",
+          "SRC-009",
+          "USR-TEXT-01"
+        ],
+        "reason": "price_001, USR-012 and DU-IMG-020 repeat the KZT 20,000 bachelor Retake/FX per-credit figure in differently dated price material. Group the repeated fee fact while preserving 2026-2027 versus archived 2025-2026/summer-2026 applicability and avoiding a universal current tariff."
+      },
+      {
+        "source_ids": [
+          "ATT-RES-01",
+          "ATT-RES-02",
+          "ATT-RES-03"
+        ],
+        "reason": "ATT-RES-01/02 are language versions of one April 2025 document. RMT-RES-017 expressly contrasts their publication/conference wording with the September 2026 thesis guidance, despite source column E listing only ATT-RES-03."
+      },
+      {
+        "source_ids": [
+          "ATT-RES-03",
+          "POL-SRC-03"
+        ],
+        "reason": "POL-037 and RMT-RES-017 give overlapping versions of the master's main-results requirement: at least one publication and/or conference presentation. The newer wording adds international scope; grouping avoids distributing versions of that same requirement across splits. Do not harmonize away the wording difference."
+      },
+      {
+        "source_ids": [
+          "ATT-RES-03",
+          "ATT-RES-05"
+        ],
+        "reason": "RMT-RES-014 and RMT-RES-031 repeat the institutional document-format requirement: LaTeX, approved template, TeX for formulas/notation/lists/tables, and content inside margins. The degree/project-format scopes remain distinct. This is a leakage-control grouping, not a claim that the guidance documents are identical."
+      },
+      {
+        "source_ids": [
+          "ATT-RES-03",
+          "ATT-RES-06"
+        ],
+        "reason": "RMT-RES-010 and RMT-RES-035 repeat submission of a proposed graduation topic in three languages with the proposed supervisor's signature. Group this repeated procedural requirement conservatively while preserving master's 2026 versus bachelor's 2022 scope and their different deadlines."
+      },
+      {
+        "source_ids": [
+          "ATT-MIL-01",
+          "ATT-MIL-02",
+          "SRC-102"
+        ],
+        "reason": "GEN-020 and RMT-RES-038 repeat the medical, psychological, physical-fitness and competitive-selection stages. ATT-MIL-01/02 are language versions of the same historical procedure. Group the military selection family while retaining the archive's 2020-2021 date and the website's unresolved current applicability."
+      },
+      {
+        "source_ids": [
+          "DU-SCREEN-01",
+          "DU-SCREEN-02",
+          "DU-SCREEN-03",
+          "DU-SCREEN-04",
+          "DU-SCREEN-05",
+          "DU-SCREEN-06"
+        ],
+        "reason": "Behavioral variation MISSING-008"
+      }
+    ],
+    "family_assignments": [
+      {
+        "family_id": "FAMILY-0877c052a696",
+        "source_ids": [
+          "ATT-MIL-01",
+          "ATT-MIL-02",
+          "SRC-102"
+        ],
+        "split": "train",
+        "supervised_examples": 8
+      },
+      {
+        "family_id": "FAMILY-dd4ddd6ea319",
+        "source_ids": [
+          "ATT-RES-01",
+          "ATT-RES-02",
+          "ATT-RES-03",
+          "ATT-RES-05",
+          "ATT-RES-06",
+          "POL-SRC-03"
+        ],
+        "split": "train",
+        "supervised_examples": 42
+      },
+      {
+        "family_id": "FAMILY-1511bca92729",
+        "source_ids": [
+          "ATT-RES-04"
+        ],
+        "split": "validation",
+        "supervised_examples": 10
+      },
+      {
+        "family_id": "FAMILY-d01b81e56c6b",
+        "source_ids": [
+          "DU-SCREEN-01",
+          "DU-SCREEN-02",
+          "DU-SCREEN-03",
+          "DU-SCREEN-04",
+          "DU-SCREEN-05",
+          "DU-SCREEN-06"
+        ],
+        "split": "train",
+        "supervised_examples": 16
+      },
+      {
+        "family_id": "FAMILY-9b918b2795c3",
+        "source_ids": [
+          "DU-SCREEN-07",
+          "POL-SRC-01",
+          "SRC-001",
+          "SRC-009",
+          "SRC-015",
+          "SRC-016",
+          "SRC-017",
+          "SRC-020",
+          "SRC-021",
+          "SRC-022",
+          "SRC-023",
+          "SRC-024",
+          "SRC-025",
+          "SRC-026",
+          "SRC-029",
+          "SRC-030",
+          "SRC-032",
+          "SRC-036",
+          "SRC-038",
+          "SRC-040",
+          "SRC-043",
+          "SRC-044",
+          "SRC-045",
+          "SRC-047",
+          "SRC-048",
+          "SRC-049",
+          "SRC-050",
+          "SRC-052",
+          "SRC-053",
+          "SRC-054",
+          "SRC-055",
+          "SRC-056",
+          "SRC-057",
+          "SRC-058",
+          "SRC-059",
+          "SRC-060",
+          "SRC-061",
+          "SRC-062",
+          "SRC-063",
+          "SRC-064",
+          "SRC-065",
+          "SRC-066",
+          "SRC-067",
+          "SRC-068",
+          "SRC-069",
+          "SRC-070",
+          "SRC-071",
+          "SRC-072",
+          "SRC-073",
+          "SRC-074",
+          "SRC-075",
+          "SRC-076",
+          "SRC-077",
+          "SRC-078",
+          "SRC-079",
+          "SRC-080",
+          "SRC-081",
+          "SRC-093",
+          "SRC-094",
+          "USR-TEXT-01"
+        ],
+        "split": "train",
+        "supervised_examples": 169
+      },
+      {
+        "family_id": "FAMILY-baf7a695ccd8",
+        "source_ids": [
+          "NEW-CAL-01"
+        ],
+        "split": "train",
+        "supervised_examples": 3
+      },
+      {
+        "family_id": "FAMILY-21bbf2cede12",
+        "source_ids": [
+          "NEW-CAL-02",
+          "SRC-034"
+        ],
+        "split": "train",
+        "supervised_examples": 10
+      },
+      {
+        "family_id": "FAMILY-dad5689a7c7d",
+        "source_ids": [
+          "NEW-CAL-03"
+        ],
+        "split": "train",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-51cf8f980f47",
+        "source_ids": [
+          "NEW-CAL-04"
+        ],
+        "split": "test",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-34349e99ed5a",
+        "source_ids": [
+          "NEW-CAL-05"
+        ],
+        "split": "train",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-1e5b48413614",
+        "source_ids": [
+          "NEW-CAL-06"
+        ],
+        "split": "validation",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-1a8cea403e6c",
+        "source_ids": [
+          "NEW-CAL-07"
+        ],
+        "split": "validation",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-fb03dfa57c65",
+        "source_ids": [
+          "NEW-CAL-08"
+        ],
+        "split": "train",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-86a6c81f585a",
+        "source_ids": [
+          "NEW-CAL-09"
+        ],
+        "split": "train",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-1b1078e0e565",
+        "source_ids": [
+          "NEW-CAL-10"
+        ],
+        "split": "validation",
+        "supervised_examples": 3
+      },
+      {
+        "family_id": "FAMILY-65110788d4cc",
+        "source_ids": [
+          "NEW-CAL-11"
+        ],
+        "split": "validation",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-6851bdcffa6d",
+        "source_ids": [
+          "NEW-CAL-12"
+        ],
+        "split": "train",
+        "supervised_examples": 3
+      },
+      {
+        "family_id": "FAMILY-d72ca21b55ff",
+        "source_ids": [
+          "POL-SRC-02",
+          "SRC-010"
+        ],
+        "split": "test",
+        "supervised_examples": 16
+      },
+      {
+        "family_id": "FAMILY-3bb23b9eeffb",
+        "source_ids": [
+          "SRC-002"
+        ],
+        "split": "test",
+        "supervised_examples": 6
+      },
+      {
+        "family_id": "FAMILY-5ff5a326cda7",
+        "source_ids": [
+          "SRC-003"
+        ],
+        "split": "test",
+        "supervised_examples": 3
+      },
+      {
+        "family_id": "FAMILY-4df1df8b0b06",
+        "source_ids": [
+          "SRC-004"
+        ],
+        "split": "train",
+        "supervised_examples": 8
+      },
+      {
+        "family_id": "FAMILY-2cd6b054ddad",
+        "source_ids": [
+          "SRC-005"
+        ],
+        "split": "test",
+        "supervised_examples": 3
+      },
+      {
+        "family_id": "FAMILY-94aaba73349c",
+        "source_ids": [
+          "SRC-006",
+          "SRC-084"
+        ],
+        "split": "validation",
+        "supervised_examples": 6
+      },
+      {
+        "family_id": "FAMILY-f4e635c46ef9",
+        "source_ids": [
+          "SRC-007"
+        ],
+        "split": "train",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-d249989e150b",
+        "source_ids": [
+          "SRC-008"
+        ],
+        "split": "train",
+        "supervised_examples": 5
+      },
+      {
+        "family_id": "FAMILY-6adf498a6490",
+        "source_ids": [
+          "SRC-011"
+        ],
+        "split": "retrieval_only",
+        "supervised_examples": 0
+      },
+      {
+        "family_id": "FAMILY-adc90d1d846a",
+        "source_ids": [
+          "SRC-012"
+        ],
+        "split": "retrieval_only",
+        "supervised_examples": 0
+      },
+      {
+        "family_id": "FAMILY-887ec5703541",
+        "source_ids": [
+          "SRC-013"
+        ],
+        "split": "retrieval_only",
+        "supervised_examples": 0
+      },
+      {
+        "family_id": "FAMILY-cabdce65c037",
+        "source_ids": [
+          "SRC-014"
+        ],
+        "split": "retrieval_only",
+        "supervised_examples": 0
+      },
+      {
+        "family_id": "FAMILY-a97a35c75f10",
+        "source_ids": [
+          "SRC-018"
+        ],
+        "split": "validation",
+        "supervised_examples": 1
+      },
+      {
+        "family_id": "FAMILY-63df75459bea",
+        "source_ids": [
+          "SRC-019"
+        ],
+        "split": "train",
+        "supervised_examples": 1
+      },
+      {
+        "family_id": "FAMILY-efbf59c17433",
+        "source_ids": [
+          "SRC-027",
+          "SRC-028"
+        ],
+        "split": "train",
+        "supervised_examples": 5
+      },
+      {
+        "family_id": "FAMILY-e4f901586763",
+        "source_ids": [
+          "SRC-031"
+        ],
+        "split": "retrieval_only",
+        "supervised_examples": 0
+      },
+      {
+        "family_id": "FAMILY-de26b7075c8b",
+        "source_ids": [
+          "SRC-033"
+        ],
+        "split": "retrieval_only",
+        "supervised_examples": 0
+      },
+      {
+        "family_id": "FAMILY-948330226e8a",
+        "source_ids": [
+          "SRC-035"
+        ],
+        "split": "train",
+        "supervised_examples": 1
+      },
+      {
+        "family_id": "FAMILY-9dcdbd75fc8a",
+        "source_ids": [
+          "SRC-037"
+        ],
+        "split": "train",
+        "supervised_examples": 3
+      },
+      {
+        "family_id": "FAMILY-8ff0cc0b55d8",
+        "source_ids": [
+          "SRC-039"
+        ],
+        "split": "train",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-3904514d518c",
+        "source_ids": [
+          "SRC-041"
+        ],
+        "split": "train",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-766a3a897d02",
+        "source_ids": [
+          "SRC-042"
+        ],
+        "split": "validation",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-edc60f356ec0",
+        "source_ids": [
+          "SRC-046"
+        ],
+        "split": "retrieval_only",
+        "supervised_examples": 0
+      },
+      {
+        "family_id": "FAMILY-7c673fb1278e",
+        "source_ids": [
+          "SRC-051"
+        ],
+        "split": "train",
+        "supervised_examples": 1
+      },
+      {
+        "family_id": "FAMILY-219651ec83c7",
+        "source_ids": [
+          "SRC-082"
+        ],
+        "split": "validation",
+        "supervised_examples": 4
+      },
+      {
+        "family_id": "FAMILY-aa489db2862f",
+        "source_ids": [
+          "SRC-083"
+        ],
+        "split": "train",
+        "supervised_examples": 4
+      },
+      {
+        "family_id": "FAMILY-c4ca3086772b",
+        "source_ids": [
+          "SRC-085"
+        ],
+        "split": "train",
+        "supervised_examples": 3
+      },
+      {
+        "family_id": "FAMILY-68ed2780af66",
+        "source_ids": [
+          "SRC-086"
+        ],
+        "split": "train",
+        "supervised_examples": 4
+      },
+      {
+        "family_id": "FAMILY-d950fbfea1e7",
+        "source_ids": [
+          "SRC-087",
+          "SRC-089"
+        ],
+        "split": "test",
+        "supervised_examples": 7
+      },
+      {
+        "family_id": "FAMILY-6a7f34b846db",
+        "source_ids": [
+          "SRC-088"
+        ],
+        "split": "retrieval_only",
+        "supervised_examples": 0
+      },
+      {
+        "family_id": "FAMILY-884f6f0fbc36",
+        "source_ids": [
+          "SRC-090"
+        ],
+        "split": "test",
+        "supervised_examples": 1
+      },
+      {
+        "family_id": "FAMILY-4490489e0c16",
+        "source_ids": [
+          "SRC-091"
+        ],
+        "split": "validation",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-72d3ad6ad4f2",
+        "source_ids": [
+          "SRC-092"
+        ],
+        "split": "validation",
+        "supervised_examples": 1
+      },
+      {
+        "family_id": "FAMILY-fb2612750573",
+        "source_ids": [
+          "SRC-095"
+        ],
+        "split": "train",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-fdab281b6967",
+        "source_ids": [
+          "SRC-096"
+        ],
+        "split": "train",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-8b4f5c3cbe38",
+        "source_ids": [
+          "SRC-097"
+        ],
+        "split": "validation",
+        "supervised_examples": 1
+      },
+      {
+        "family_id": "FAMILY-4ed3a481bb51",
+        "source_ids": [
+          "SRC-098"
+        ],
+        "split": "test",
+        "supervised_examples": 1
+      },
+      {
+        "family_id": "FAMILY-fa1617ff970d",
+        "source_ids": [
+          "SRC-099"
+        ],
+        "split": "train",
+        "supervised_examples": 1
+      },
+      {
+        "family_id": "FAMILY-4aa554c87ad8",
+        "source_ids": [
+          "SRC-100"
+        ],
+        "split": "validation",
+        "supervised_examples": 2
+      },
+      {
+        "family_id": "FAMILY-61d7b5a66376",
+        "source_ids": [
+          "SRC-101"
+        ],
+        "split": "train",
+        "supervised_examples": 2
+      }
+    ]
+  },
+  "excluded_records": [
+    {
+      "origin_id": "USR-011",
+      "reason": "Unverified bank/payment details from an undated notice; excluded from operational answer training and the RAG corpus."
+    }
+  ],
+  "limitations": [
+    "Contexts are English paraphrases of workbook summaries, not verbatim original official document excerpts.",
+    "The underlying linked PDFs, screenshots and original user messages were not supplied with these two workbook attachments and were not independently verified in this task.",
+    "All team-review statuses remain pending. Translation and automatic consistency checks are not human factual validation.",
+    "Questions are synthetic or rewritten workbook questions, not a real survey or collected user conversations.",
+    "The source snapshot is 21 October 2026; fees, contacts and deadlines may require later verification.",
+    "The retrieval corpus intentionally includes evidence for all splits; supervised question-answer examples remain separated.",
+    "Known duplicates and source families are grouped. This is not a guarantee that no general wording or common background fact recurs across sources.",
+    "This is a small prototype dataset, not evidence that a trained assistant is reliable or that LoRA improves quality."
+  ]
+}
