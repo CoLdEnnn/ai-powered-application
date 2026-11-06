@@ -27,8 +27,8 @@ class AppState extends ChangeNotifier {
   ApiClient api;
   bool started = false;
 
-  /// "all", "applicant" or "current_student" (matches the backend).
-  String audience = 'all';
+  /// "current_student" or "all" (the current knowledge base is for students).
+  String audience = 'current_student';
   bool showSources = true;
   bool showTime = true;
 
