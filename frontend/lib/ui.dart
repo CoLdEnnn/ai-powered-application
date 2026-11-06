@@ -232,9 +232,8 @@ class LinkText extends StatelessWidget {
 }
 
 const audienceLabels = <String, String>{
-  'all': 'General (all)',
-  'applicant': 'Applicant',
   'current_student': 'Current student',
+  'all': 'All audiences',
 };
 
 class AudienceDropdown extends StatelessWidget {

@@ -7,7 +7,7 @@ import 'models.dart';
 
 /// Talks to the FastAPI backend:
 ///   GET  /api/health
-///   POST /api/chat   {"question": "...", "audience": "all|applicant|current_student"}
+///   POST /api/chat   {"question": "...", "audience": "all|current_student"}
 class ApiClient {
   ApiClient({required this.baseUrl, this.mock = false});
 
@@ -79,16 +79,15 @@ class ApiClient {
   Future<ChatAnswer> _mockAnswer(String question) async {
     await Future<void>.delayed(const Duration(milliseconds: 1200));
     return ChatAnswer(
-      answer:
-          'A loan extension is arranged in person at the library, if no other reader has requested the item. [ctx-1]',
+      answer: 'The Transcript Requests section lists transcript@astanait.edu.kz. [KB-AC-018]',
       sources: [
         Source(
-          contextId: 'ctx-1',
-          title: 'Library: borrowing and renewing books',
-          text: 'Renewal is arranged during a personal visit to the library if there is no request from other users.',
-          urls: ['https://astanait.edu.kz/en/for-students'],
-          verificationStatus: 'source_checked_team_review_pending',
-          snapshotDate: '2026-10-21',
+          contextId: 'KB-AC-018',
+          title: 'Where should I send a transcript request?',
+          text: 'The Transcript Requests section lists transcript@astanait.edu.kz.',
+          urls: ["https://astanait.edu.kz/en/school-of-software-engineering"],
+          verificationStatus: "workbook_evidence_checked_2026-11-04_team_signoff_not_recorded",
+          snapshotDate: "2026-11-04",
           score: 0.82,
         ),
       ],

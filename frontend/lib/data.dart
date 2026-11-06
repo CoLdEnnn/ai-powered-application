@@ -1,5 +1,6 @@
-// Static content for the Topics, Contacts and Calendar screens.
-// Source: the AITU knowledge base used by the assistant (snapshot 2026-10-21).
+// Static content for the Topics and Contacts screens.
+// Topics are counted from the current knowledge base (rag_student_final_en.jsonl, 224 passages).
+// Contacts are checked against the same knowledge base.
 
 class Topic {
   const Topic(this.name, this.count, this.questions);
@@ -9,45 +10,75 @@ class Topic {
 }
 
 const kTopics = <Topic>[
-  Topic('Certificates & procedures', 25, [
-    'How do I order a transcript?',
-    'How can I get an enrollment certificate?',
+  Topic('Academic and administrative procedures', 32, [
+    'How long is a Bachelor\'s programme under Academic Policy Edition 4?',
+    'How many trimesters are there in an AITU academic year?',
+    'How long is a trimester?',
   ]),
-  Topic('Policy & calendar', 15, [
-    'When does the winter exam session start?',
-    'What are the rules for retaking an exam?',
+  Topic('Schools and programme catalogues', 27, [
+    'What is the language of instruction for bachelor\'s programmes?',
+    'How long is a master\'s degree and what is the language of instruction?',
+    'Which main master\'s programmes are listed at AITU?',
   ]),
-  Topic('Services & student life', 25, [
-    'How do I extend a library loan?',
-    'Where is the medical room?',
+  Topic('Detailed programme pages', 26, [
+    'What is the focus of the Mathematical and Computational Science programme (bachelor\'s)?',
+    'What is the focus of the Cybersecurity programme (bachelor\'s)?',
+    'What is the focus of the Smart Security Technologies programme (bachelor\'s)?',
   ]),
-  Topic('Career & research', 25, [
-    'How can I find an internship?',
-    'How do I join a research project?',
+  Topic('Services and student life', 25, [
+    'What room types are available in AITU student residences?',
+    'Where is cooking allowed in the dormitory?',
+    'Do the dormitories have Wi-Fi and laundry facilities?',
   ]),
-  Topic('Departments', 20, [
-    'Who do I contact at the Registrar\'s Office?',
-    'Where is the Student Department?',
+  Topic('Mobility, careers and research', 24, [
+    'What is outgoing academic mobility at AITU?',
+    'Which documents are listed for outgoing academic mobility?',
+    'Who receives preference when applicants have equal scores in the mobility selection process?',
   ]),
-  Topic('Admission & AET', 25, [
-    'What is the AET and who has to take it?',
-    'Which documents do applicants need?',
+  Topic('Student residence procedures and payments', 18, [
+    'How do I apply for AITU dormitory accommodation using My DU?',
+    'How can I track my dormitory application?',
+    'How do I choose a dormitory room after my application is reviewed?',
   ]),
-  Topic('Schools & programs', 56, [
-    'Which programs does the school of IT offer?',
-    'How long is the bachelor program?',
+  Topic('Fees and tariffs', 17, [
+    'How much does one Retake/FX credit cost for AITU bachelor’s students in 2026–2027?',
+    'How much does one credit cost for bachelor’s transfer, reinstatement, repeat-year study, or curriculum differences in 2026–2027?',
+    'Can a student receive two AITU discounts at the same time?',
   ]),
-  Topic('Tuition & discounts', 9, [
-    'Are there tuition discounts?',
-    'How do I pay for the semester?',
+  Topic('Navigation, departments and contacts', 17, [
+    'What address is listed for AITU?',
+    'How can I contact the AITU administrative office?',
+    'How can I contact AITU\'s general Admissions Office?',
+  ]),
+  Topic('Academic policy, calendar and IGPA', 15, [
+    'Who organizes course registration at AITU?',
+    'Can an FX final examination be retaken without repeating the course outside the summer semester?',
+    'What should a student do after receiving a final grade of F?',
+  ]),
+  Topic('Grants and tuition discounts', 9, [
+    'Where are tuition-discount applications submitted?',
+    'Can a fee-paying undergraduate student with strong grades apply for a 30% discount?',
+    'What discount is listed for qualifying families with several AITU students or graduates?',
   ]),
 ];
 
 const kCommonQuestions = <String>[
-  'How do I extend a library loan?',
-  'How do I order a transcript?',
-  'When does the winter exam session start?',
-  'Who do I contact for IT help?',
+  'Who organizes course registration at AITU?',
+  'How do I apply for AITU dormitory accommodation using My DU?',
+  'Where are tuition-discount applications submitted?',
+  'Where should I send a transcript request?',
+];
+
+/// Questions about the calendar and academic rules (shown on the Calendar screen).
+const kCalendarQuestions = <String>[
+
+  'Who organizes course registration at AITU?',
+  'Can an FX final examination be retaken without repeating the course outside the summer semester?',
+  'What should a student do after receiving a final grade of F?',
+  'How long is the summer semester?',
+  'How many credits can a student take in the summer semester?',
+  'How can a student register for the summer semester?',
+  'Is an FX examination retake available in the summer semester?',
 ];
 
 class Contact {
@@ -60,32 +91,11 @@ class Contact {
 }
 
 const kContacts = <Contact>[
-  Contact('Student Department', 'Student questions and documents', room: 'C1.1.273'),
-  Contact('Transcript requests', 'Ordering transcripts', email: 'transcript@astanait.edu.kz'),
-  Contact('Student support', 'Distance learning support', email: 'support_du@astanait.edu.kz'),
-  Contact('IT Helpdesk', 'Accounts, Wi-Fi, systems', email: 'helpdesk@astanait.edu.kz', room: 'C1.2.255'),
-  Contact('Registrar\'s Office', 'Registration and records', email: 'office.reg@astanait.edu.kz', room: 'C1.1.270'),
-  Contact('Medical room', 'First aid', room: '8', phone: '8 (7172) 64-57-33'),
+  Contact('Student Department', 'Student certificates. Head: g.zhussupova@astanait.edu.kz', email: 'g.zhussupova@astanait.edu.kz', room: 'C1.1.273'),
+  Contact('Transcript requests', 'Where to send a transcript request', email: 'transcript@astanait.edu.kz'),
+  Contact('Technical support: DU, Moodle, Abitur', 'Problems with DU, Moodle or Abitur', email: 'support_du@astanait.edu.kz'),
+  Contact('IT helpdesk', 'Other technical questions', email: 'helpdesk@astanait.edu.kz', room: 'C1.2.255 (head and administrators)'),
+  Contact('Registrar\'s Office', 'Course registration and academic records. Head: Aliya.Koitanova@astanait.edu.kz', email: 'Aliya.Koitanova@astanait.edu.kz', room: 'C1.1.270'),
+  Contact('Library', 'Library questions', email: 'library@astanait.edu.kz', phone: '+7 (7172) 64-57-17'),
+  Contact('Administrative office', 'General contacts (confirm availability on the official Contacts page)', email: 'info@astanait.edu.kz', phone: '+7 (7172) 645-728'),
 ];
-
-class Period {
-  const Period(this.name, this.start, this.end, {this.exam = false});
-  final String name;
-  final DateTime start;
-  final DateTime end;
-  final bool exam;
-}
-
-/// Year 2, bachelor, academic year 2026-27.
-final kPeriods = <Period>[
-  Period('Fall - theoretical study', DateTime(2026, 9, 7), DateTime(2026, 11, 14)),
-  Period('Fall - exam session', DateTime(2026, 11, 16), DateTime(2026, 11, 28), exam: true),
-  Period('Winter - theoretical study', DateTime(2026, 12, 7), DateTime(2027, 2, 13)),
-  Period('Winter - exam session', DateTime(2027, 2, 15), DateTime(2027, 2, 27), exam: true),
-  Period('Spring - theoretical study', DateTime(2027, 3, 15), DateTime(2027, 5, 22)),
-];
-
-String fmtDate(DateTime d) {
-  String two(int n) => n.toString().padLeft(2, '0');
-  return '${d.year}-${two(d.month)}-${two(d.day)}';
-}
